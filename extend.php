@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of hamzone/share.
+ * This file is part of hamcq/share.
  *
  * Copyright (c) 2023 emin.lin.
  *
@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace HamZone\Share;
+namespace HamCQ\Share;
 
 use Flarum\Extend;
 

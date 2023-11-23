@@ -1,5 +1,5 @@
 {
-    "name": "hamzone/share",
+    "name": "hamcq/share",
     "description": "for wechat mini app share",
     "keywords": [
         "flarum"
@@ -18,7 +18,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "HamZone\\Share\\": "src/"
+            "HamCQ\\Share\\": "src/"
         }
     },
     "extra": {
